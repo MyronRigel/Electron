@@ -1,0 +1,25 @@
+.container {
+    padding: 50px;
+    width: 60%;
+}
+
+.space-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card {
+    border: 1px solid grey;
+    border-radius: 1px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.card-content {
+    margin-top: 15px;
+}
+
+.link {
+    font-size: 0.7em
+}
