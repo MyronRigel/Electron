@@ -9,7 +9,7 @@ npm v9.5.0
 - Development:
 
 ```
- $ cd test-task
+ $ cd Electron
  $ npm ci
  $ npm run dev
 ```
@@ -17,7 +17,7 @@ npm v9.5.0
 - Production:
 
 ```
- $ cd test-task
+ $ cd Electron
  $ npm ci
  $ npm run build
  $ npm run prod
